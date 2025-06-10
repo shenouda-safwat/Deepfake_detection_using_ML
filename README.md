@@ -17,3 +17,5 @@ A simple Streamlit app to detect DeepFake images using classical machine learnin
 ## Notes
 
 - This project uses handcrafted features and classical ML techniques.
+# link of dataset on kaggle
+   https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images
